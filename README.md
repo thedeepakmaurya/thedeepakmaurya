@@ -1,20 +1,17 @@
-#### Namastey, I am Deepak Maurya
+**Namastey, I am Deepak Maurya**
 
-<------------------------------------------------------/>
 
-• 📌 I live in New Delhi, Bharat <br>
-• React.js enthusiast on a journey to master the art of building interactive and dynamic user interfaces. <br>
-• Crafting modern and responsive web applications using React.js <br>
-• Tech Stack : Tailwind, JavaScript, React.js <br>
+- 📌 I live in New Delhi, Bharat 
+- React.js enthusiast on a journey to master the art of building interactive and dynamic user interfaces. 
+- Crafting modern and responsive web applications using React.js 
+- Tech Stack : Tailwind, JavaScript, React.js 
 
-<------------------------------------------------------/>
 
-• My socials are listed below <br>
-  ◦ LinkedIn at <a href="linkedin.com/in/thedeepakmaurya">thedeepakmaurya</a> <br>
-  ◦ Instagram at <a href="instagram.com/deepakmaury.a">deepakmaury.a</a> <br>
-  ◦ Email at mauryadeepak@gmmail.com <br>
+- My socials are listed below <br>
+  - LinkedIn at <a href="linkedin.com/in/thedeepakmaurya">thedeepakmaurya</a> 
+  - Instagram at <a href="instagram.com/deepakmaury.a">deepakmaury.a</a>
+  - Email at mauryadeepak@gmmail.com 
 
-<------------------------------------------------------/>
 
 
 <!--
