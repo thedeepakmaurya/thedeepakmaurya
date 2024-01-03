@@ -2,10 +2,10 @@
 
 <------------------------------------------------------/>
 
-• 📌 I live in New Delhi, Bharat
-• React.js enthusiast on a journey to master the art of building interactive and dynamic user interfaces.
-• Crafting modern and responsive web applications using React.js
-• Tech Stack : Tailwind, JavaScript, React.js
+• 📌 I live in New Delhi, Bharat <br>
+• React.js enthusiast on a journey to master the art of building interactive and dynamic user interfaces. <br>
+• Crafting modern and responsive web applications using React.js <br>
+• Tech Stack : Tailwind, JavaScript, React.js <br>
 
 <------------------------------------------------------/>
 
