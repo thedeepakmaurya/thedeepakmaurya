@@ -18,7 +18,7 @@
 
 - My Certifications
   - 📚 MERN Stack at DUCAT India
-  - 💻 React.js at Udemy
-  - 💻 JavaScript at Udemy
-  - 💻 BootStrap at Udemy
+  - 📑 React.js at Udemy
+  - 📑 JavaScript at Udemy
+  - 📑 BootStrap at Udemy
 
