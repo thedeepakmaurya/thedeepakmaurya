@@ -9,10 +9,10 @@
 
 <------------------------------------------------------/>
 
-• My socials are listed below
-  ◦ LinkedIn at <a href="linkedin.com/in/thedeepakmaurya">thedeepakmaurya</a>
-  ◦ Instagram at <a href="instagram.com/deepakmaury.a">deepakmaury.a</a>
-  ◦ Email at mauryadeepak@gmmail.com
+• My socials are listed below <br>
+  ◦ LinkedIn at <a href="linkedin.com/in/thedeepakmaurya">thedeepakmaurya</a> <br>
+  ◦ Instagram at <a href="instagram.com/deepakmaury.a">deepakmaury.a</a> <br>
+  ◦ Email at mauryadeepak@gmmail.com <br>
 
 <------------------------------------------------------/>
 
