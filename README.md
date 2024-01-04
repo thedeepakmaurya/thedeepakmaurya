@@ -10,9 +10,9 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - My socials are listed below
-  - LinkedIn at <a href="linkedin.com/in/thedeepakmaurya">thedeepakmaurya</a> 
-  - Instagram at <a href="instagram.com/deepakmaury.a">deepakmaury.a</a>
-  - Portfolio at <a href="thedeepakmaurya.github.io/portfolio">deepakMaurya</a>
+  - LinkedIn at <a href="https://linkedin.com/in/thedeepakmaurya">thedeepakmaurya</a> 
+  - Instagram at <a href="https://instagram.com/deepakmaury.a">deepakmaury.a</a>
+  - Portfolio at <a href="https://thedeepakmaurya.github.io/portfolio">deepakMaurya</a>
   - Email at mauryadeepak@gmmail.com 
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
