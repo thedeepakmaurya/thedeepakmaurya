@@ -12,6 +12,7 @@
 - My socials are listed below
   - LinkedIn at <a href="linkedin.com/in/thedeepakmaurya">thedeepakmaurya</a> 
   - Instagram at <a href="instagram.com/deepakmaury.a">deepakmaury.a</a>
+  - Portfolio at <a href="thedeepakmaurya.github.io/portfolio">deepakMaurya</a>
   - Email at mauryadeepak@gmmail.com 
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
