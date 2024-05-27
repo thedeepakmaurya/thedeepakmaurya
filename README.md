@@ -21,5 +21,4 @@
   - 📚 MERN Stack at DUCAT India
   - 💻 React.js at Udemy
   - 💻 JavaScript at NamasteyDev
-  - 💻 BootStrap at Udemy
 
