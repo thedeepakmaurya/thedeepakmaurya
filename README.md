@@ -13,7 +13,7 @@
   - LinkedIn at <a href="https://linkedin.com/in/thedeepakmaurya">thedeepakmaurya</a> 
   - Discord at <a href="https://discordapp.com/users/deepakstack">deepakstack</a>
   - Instagram at <a href="https://instagram.com/deepakmaur.ya">deepakmaur.ya</a>
-  - Portfolio at <a href="https://thedeepakmaurya.github.io/portfolio">deepakMaurya</a>
+  - Portfolio at <a href="https://deepakmaurya.us">deepakMaurya</a>
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
