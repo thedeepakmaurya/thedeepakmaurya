@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/2cdd5da6-bdab-4f15-87b1-4b022f51bb39)**Namastey, I am Deepak Maurya**
-
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - 📌 I live in New Delhi, Bharat 
