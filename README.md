@@ -1,9 +1,9 @@
-**Namastey, I am Deepak Maurya**
+![image](https://github.com/user-attachments/assets/2cdd5da6-bdab-4f15-87b1-4b022f51bb39)**Namastey, I am Deepak Maurya**
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - 📌 I live in New Delhi, Bharat 
-- React.js enthusiast on a journey to master the art of building interactive and dynamic user interfaces. 
+- Frontend Developer with 1 year of solid experience building responsive and user-centric web applications. 
 - Crafting modern and responsive web applications using React.js 
 - Tech Stack : React.js, Next.js, JavaScript, Tailwind, Bootstrap, Git & Github, Node.js(learning) 
 
